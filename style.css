@@ -1,6 +1,11 @@
 h1{
     font-style: normal;
     font: bold;
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
 
 body{
