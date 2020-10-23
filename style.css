@@ -1,0 +1,15 @@
+h1{
+    font-style: normal;
+    font: bold;
+}
+
+body{
+    background-image: url('');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
