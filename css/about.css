@@ -20,6 +20,10 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.wrapper {
+    text-align: center;
+}
+
 .topnav {
   background-color: white;
   overflow: hidden;
