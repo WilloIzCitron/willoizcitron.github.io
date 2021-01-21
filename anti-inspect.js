@@ -12,27 +12,27 @@ document.oncontextmenu = function (e) {
 document.onkeydown = function (e) {
     // disable f12
     if (event.keyCode == 123) {
-        alert("no")
-        return false;
+        return false
+        alert("no");
     }
     // disable ctrl+shift+I
     if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
-        alert("no")
-        return false;
+        return false
+        alert("no");
     }
     // disable ctrl+shift+C
     if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
-        alert("no")
-        return false;
+        return false
+        alert("no");
     }
     // disable ctrl+shift+j
     if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
-        alert("no")
-        return false;
+        return false
+        alert("no");
     }
     // disable ctrl+shift+U
     if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
-        alert("no")
-        return false;
+        return false
+        alert("no");
     }
 }
