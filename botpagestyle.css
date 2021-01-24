@@ -1,12 +1,12 @@
 h1{
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Audiowide;
     text-align: center;
 }
 
 p{
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Audiowide;
     text-align: center;
 }
 
@@ -38,7 +38,7 @@ body{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Audiowide;
 }
 
 /* Change the color of links on hover */
