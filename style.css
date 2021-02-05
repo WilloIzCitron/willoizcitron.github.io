@@ -54,3 +54,10 @@ body{
   background-color: #4CAF50;
   color: white;
 }
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .topnav, .btn, h1, p {
+    width:100%;
+  }
+}
