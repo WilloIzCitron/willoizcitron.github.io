@@ -60,4 +60,10 @@ body{
   .topnav, .btn, h1, p {
     width:100%;
   }
+  h1 {
+      font-size: 3rem;
+    }
+  p {
+      font-size: 1rem;
+    }
 }
